@@ -1,3 +1,6 @@
+
+
+
 """
 Create a function that calculates the factorial of a number.
 n! = n * (n-1).(n-2).(n-3)* ..... * 2 * 1
